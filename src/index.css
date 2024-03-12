@@ -46,6 +46,12 @@ a {
   width:350px;
 }
 
+/* .videos-grid{
+  position: relative;
+  right: -100px;
+  width: 80vw;
+} */
+
 .category-btn{
   font-weight: bold !important;
   text-transform: capitalize;
